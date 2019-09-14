@@ -1,0 +1,60 @@
+function profil ()
+{
+	"name" : "ardiyana saputra",
+	"age" : 18,
+	"address" : "Jl.Pabuaran- Cirangkong, RT.01/001, Ds.Jeungjing,Kec.Cisoka, Kab.Tangerang - Banten, Kode pos : 15730",
+	"hobbies" : ["reading a book","watching a movie", "playing a game"],
+	"is_married" : false,
+	"list_school" : 
+		{
+		"elementary_school" : [{
+			"name" : "SDN Bojongloa 1",
+			"year_in" : 2006,
+			"year_out" : 2012,
+			"major" : null
+		}],
+		"junior_high_school" :[{
+			"name" : "SMPN 3 Solear",
+			"year_in" : 2012,
+			"year_out" : 2015,
+			"major" :null
+		}],
+		"senior_high_school" :[{
+			"name" : "SMKN 4 Kab.Tangerang",
+			"year_in" :2015,
+			"year_out" :2018,
+			"major" : null
+		}]
+		},
+	"skill" : 
+		{
+			"programming" : [
+			{
+				"name_skill" : "php",
+				"level" : "beginner"
+			},
+			{
+				"name_skill" : "javascript",
+				"level" : "beginner"
+			},
+			{
+				"name_skill" : "C++",
+				"level" : "beginner"
+			}
+
+			],
+			"design" : [
+			{
+				"name_skill" : "photoshop",
+				"level" : "advanced"
+			},
+			{
+				"name_skill" : "coreldraw",
+				"level" : "advanced"
+			}
+			]
+		},
+		"interest_in_coding" : true
+
+
+}
